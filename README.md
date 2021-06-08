@@ -1,5 +1,5 @@
-##
-## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD": Poster..
+## Poster: Suplementary Material  
+## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD": Poster
 
 York University  
 Department of Electronic Engineering
