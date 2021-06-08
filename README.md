@@ -15,7 +15,7 @@ christopher.barlow@solent.ac.uk
 
 The focus of the proposed research is targeted at immersive soundscapes assisting cognitive and emotional ADHD therapeutic practice. Below are the main ADHD characteristic describing the disorder and will be further referenced as points of intervention for the immersive soundscape implementation.
 
-A. ADHD is a neurodevelopmental disorder characterized by: inattention, impulsivity, and hyperactivity. The symptoms described as (Wang and Hsu 2018):
+**A.** ADHD is a neurodevelopmental disorder characterized by: inattention, impulsivity, and hyperactivity. The symptoms described as (Wang and Hsu 2018):
 1. Concentration of Attention (ADD) - 
 The main signs of inattentiveness are:
 distracted by sights and sounds in their environment 
@@ -41,9 +41,9 @@ little or no sense of danger
 
 3. Mixed type (ADHD) – At the same time has the ability to concentrate on the symptoms, easily distracted and unable to restrain themselves
 
-B. Another Symptom originating from the Voeller’s and Heilman’s (1988) study is Spatial Attention/bias. It refers to the perceptual enhancement of stimuli that are presented at certain locations in space (Bellgrove et al. 2008).  They found that boys with the ADHD diagnosis had a tendency to miss visual targets presented to the left side of a sheet of paper in comparison with an age-matched control group. Most, but not all, subsequent reports have been consistent with this conclusion (Manly et al. 2005).
+**B.** Another Symptom originating from the Voeller’s and Heilman’s (1988) study is Spatial Attention/bias. It refers to the perceptual enhancement of stimuli that are presented at certain locations in space (Bellgrove et al. 2008).  They found that boys with the ADHD diagnosis had a tendency to miss visual targets presented to the left side of a sheet of paper in comparison with an age-matched control group. Most, but not all, subsequent reports have been consistent with this conclusion (Manly et al. 2005).
 
-C. ADHD belongs in the emotional disorders as well. 
+**C.** ADHD belongs in the emotional disorders as well. 
 The emotional impairments of children and adolescents with ADHD may include poor self-regulation of emotion, alexithymia, greater excessive emotional expression, especially anger and aggression, greater problems coping with frustration, reduced empathy, and decreased arousal to stimulation (Wehmeier et at., 2010; Donfrancesco et al. 2013).  
 
 The current EEG neurofeedback treatments focus on cognitive training technics neglecting the emotional factor of the participant.
@@ -109,7 +109,7 @@ e. Transfer: generalization to daily life
 
 ### References
 
-Wang, P. and Hsu, T. (2018) ‘Application of amplified reality to the cognitive effect of children with attention deficit hyperactivity disorder(ADHD) – An example of Italian Chicco-app interactive building blocks’, in 2018 1st IEEE International Conference on Knowledge Innovation and Invention (ICKII), pp. 301–302. doi: 10.1109/ICKII.2018.8569170.
+###### Wang, P. and Hsu, T. (2018) ‘Application of amplified reality to the cognitive effect of children with attention deficit hyperactivity disorder(ADHD) – An example of Italian Chicco-app interactive building blocks’, in 2018 1st IEEE International Conference on Knowledge Innovation and Invention (ICKII), pp. 301–302. doi: 10.1109/ICKII.2018.8569170.
 
 Wehmeier, P. M., Schacht, A. and Barkley, R. A. (2010) ‘Social and Emotional Impairment in Children and Adolescents with ADHD and the Impact on Quality of Life’, Journal of Adolescent Health. Elsevier Ltd, 46(3), pp. 209–217. doi: 10.1016/j.jadohealth.2009.09.009.
 
@@ -145,5 +145,5 @@ Avila-Pesantez, D. et al. (2018) ‘Towards the improvement of ADHD children thr
 
 Heinrich, H., Gevensleben, H. and Strehl, U. (2007) ‘Annotation: Neurofeedback - Train your brain to train behaviour’, Journal of Child Psychology and Psychiatry and Allied Disciplines, 48(1), pp. 3–16. doi: 10.1111/j.1469-7610.2006.01665.x.
 
-Vollebregt, M. A. et al. (2014) ‘What future research should bring to help resolving the debate about the efficacy of EEG-neurofeedback in children with ADHD’, Frontiers in Human Neuroscience, 8(MAY), pp. 1–6. doi: 10.3389/fnhum.2014.00321.
+Vollebregt, M. A. et al. (2014) ‘What future research should bring to help resolving the debate about the efficacy of EEG-neurofeedback in children with ADHD’, Frontiers in Human Neuroscience, 8(MAY), pp. 1–6. doi: 10.3389/fnhum.2014.00321.###### 
 
