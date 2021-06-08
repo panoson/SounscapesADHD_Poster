@@ -82,10 +82,11 @@ Soundscape content: Emotional Identification & Influence
 Cognitive and attentional related tasks are allocated within the virtual scape. The EEG-NF is presented with sound constituting soundscape elements. The emotional states alongside the Valance and Arousal dynamics of the participant play the leading role in structuring and modifying the sonic environment.
 
 ### Equipment:
-Screen/Tablet: Visual Representation
-EEG: Neurofeedback
-Facial Recognition: Emotional state estimation
-Headphones: Binaural sound
+Screen: Visual Representation of 3D environment design and implemented in Unity
+Spatial audio designed in Supercollider and Wwise 
+3rd order ambisonics transmitted via wireless headphones
+Stereo Camera: OAK–D: OpenCV AI Kit for Motion Tracking and Emotional Estimation 
+EEG: Neurofeedback with Emotiv -Epoc
 
 ### Interventions:
 a. Improve Training Technique
