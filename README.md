@@ -109,7 +109,7 @@ e. Transfer: generalization to daily life
 
 ### References
 
-###### Wang, P. and Hsu, T. (2018) ‘Application of amplified reality to the cognitive effect of children with attention deficit hyperactivity disorder(ADHD) – An example of Italian Chicco-app interactive building blocks’, in 2018 1st IEEE International Conference on Knowledge Innovation and Invention (ICKII), pp. 301–302. doi: 10.1109/ICKII.2018.8569170.
+Wang, P. and Hsu, T. (2018) ‘Application of amplified reality to the cognitive effect of children with attention deficit hyperactivity disorder(ADHD) – An example of Italian Chicco-app interactive building blocks’, in 2018 1st IEEE International Conference on Knowledge Innovation and Invention (ICKII), pp. 301–302. doi: 10.1109/ICKII.2018.8569170.
 
 Wehmeier, P. M., Schacht, A. and Barkley, R. A. (2010) ‘Social and Emotional Impairment in Children and Adolescents with ADHD and the Impact on Quality of Life’, Journal of Adolescent Health. Elsevier Ltd, 46(3), pp. 209–217. doi: 10.1016/j.jadohealth.2009.09.009.
 
@@ -145,5 +145,5 @@ Avila-Pesantez, D. et al. (2018) ‘Towards the improvement of ADHD children thr
 
 Heinrich, H., Gevensleben, H. and Strehl, U. (2007) ‘Annotation: Neurofeedback - Train your brain to train behaviour’, Journal of Child Psychology and Psychiatry and Allied Disciplines, 48(1), pp. 3–16. doi: 10.1111/j.1469-7610.2006.01665.x.
 
-Vollebregt, M. A. et al. (2014) ‘What future research should bring to help resolving the debate about the efficacy of EEG-neurofeedback in children with ADHD’, Frontiers in Human Neuroscience, 8(MAY), pp. 1–6. doi: 10.3389/fnhum.2014.00321.###### 
+Vollebregt, M. A. et al. (2014) ‘What future research should bring to help resolving the debate about the efficacy of EEG-neurofeedback in children with ADHD’, Frontiers in Human Neuroscience, 8(MAY), pp. 1–6. doi: 10.3389/fnhum.2014.00321.
 
