@@ -1,6 +1,8 @@
+##
 ## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD": Poster..
 
-York University Department of Electronic Engineering
+York University 
+Department of Electronic Engineering
 
 Panagiotis Tsagkarakis            
 panagiotis.Tsagkarakis@york.ac.uk 
@@ -8,7 +10,7 @@ panagiotis.Tsagkarakis@york.ac.uk
 Gavin Kearnet             
 gavin.kearney@york.ac.uk  
 
-Chris Barlow 
+Chris Barlow
 christopher.barlow@solent.ac.uk
 
 ### Attention Deficit Hiperactivity Disrorder (ADHD)
