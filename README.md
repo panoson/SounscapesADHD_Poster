@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD": Poster
 
 You can use the [editor on GitHub](https://github.com/panoson/SounscapesADHD_Poster/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
